@@ -1,0 +1,27 @@
+Biggieware
+Copyright (c) 2026 L3TH7L. All rights reserved.
+
+Biggieware (the Biggieware mod, the Biggieware Launcher, their source code, builds, artwork
+and documentation) is proprietary software. No part of it may be copied, modified, shared,
+published, sold, decompiled, reverse engineered or used to make other software without the
+copyright holder's written permission.
+
+You may download and run official releases from this repository for your own personal use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO
+EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE SOFTWARE OR ITS USE.
+
+
+Third-party parts
+-----------------
+These are included under their own licences, which this notice does not change:
+
+- Sora font, Copyright 2019 The Sora Project Authors. SIL Open Font License 1.1; the full
+  licence is inside the mod at assets/biggieware/font/Sora-OFL.txt.
+- Fabric API by FabricMC (installed into the game by the launcher). Apache License 2.0.
+- The launcher is built with Python (PSF License), CustomTkinter (MIT), minecraft-launcher-lib
+  (BSD 2-Clause), Requests (Apache License 2.0) and Pillow (MIT-CMU), bundled by PyInstaller.
+
+Minecraft is a trademark of Mojang Studios. Biggieware is not made by, endorsed by or
+affiliated with Mojang Studios or Microsoft.

@@ -20,6 +20,8 @@ These are included under their own licences, which this notice does not change:
 - Sora font, Copyright 2019 The Sora Project Authors. SIL Open Font License 1.1; the full
   licence is inside the mod at assets/biggieware/font/Sora-OFL.txt.
 - Fabric API by FabricMC (installed into the game by the launcher). Apache License 2.0.
+- Just Enough Items (JEI), MezzConfig and MezzConfigGUI by mezz (installed into the game by the
+  launcher). MIT License.
 - The launcher is built with Python (PSF License), CustomTkinter (MIT), minecraft-launcher-lib
   (BSD 2-Clause), Requests (Apache License 2.0) and Pillow (MIT-CMU), bundled by PyInstaller.
 

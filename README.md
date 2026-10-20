@@ -1,6 +1,6 @@
 # Biggieware
 
-A Minecraft 26.3 client mod for Fabric with its own Windows launcher: 94 cheats in a pink
+A Minecraft 26.3 client mod for Fabric with its own Windows launcher: 92 cheats in a pink
 in-game menu (Right Shift), plus a texture pack browser.
 
 ## Install

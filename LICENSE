@@ -25,6 +25,9 @@ These are included under their own licences, which this notice does not change:
 - BetterF3 by TreyRuffy (installed into the game by the launcher). MIT License.
 - Cloth Config by shedaniel (installed into the game by the launcher, unmodified; source at
   https://github.com/shedaniel/ClothConfig). GNU Lesser General Public License v3.0.
+- Trinkets Updated by Patbox, based on Trinkets by Emi (installed into the game by the launcher).
+  MIT License.
+- Experience Skills by CoolerProYT (installed into the game by the launcher). MIT License.
 - The launcher is built with Python (PSF License), CustomTkinter (MIT), minecraft-launcher-lib
   (BSD 2-Clause), Requests (Apache License 2.0) and Pillow (MIT-CMU), bundled by PyInstaller.
 

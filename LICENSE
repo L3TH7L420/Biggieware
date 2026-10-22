@@ -22,6 +22,9 @@ These are included under their own licences, which this notice does not change:
 - Fabric API by FabricMC (installed into the game by the launcher). Apache License 2.0.
 - Just Enough Items (JEI), MezzConfig and MezzConfigGUI by mezz (installed into the game by the
   launcher). MIT License.
+- BetterF3 by TreyRuffy (installed into the game by the launcher). MIT License.
+- Cloth Config by shedaniel (installed into the game by the launcher, unmodified; source at
+  https://github.com/shedaniel/ClothConfig). GNU Lesser General Public License v3.0.
 - The launcher is built with Python (PSF License), CustomTkinter (MIT), minecraft-launcher-lib
   (BSD 2-Clause), Requests (Apache License 2.0) and Pillow (MIT-CMU), bundled by PyInstaller.
 

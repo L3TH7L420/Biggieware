@@ -27,7 +27,11 @@ These are included under their own licences, which this notice does not change:
   https://github.com/shedaniel/ClothConfig). GNU Lesser General Public License v3.0.
 - Trinkets Updated by Patbox, based on Trinkets by Emi (installed into the game by the launcher).
   MIT License.
-- Experience Skills by CoolerProYT (installed into the game by the launcher). MIT License.
+- Pufferfish's Skills by Pufferfish: NOT included; the launcher downloads it from Modrinth into the
+  game (its licence allows use in modpacks but not re-uploading).
+- Pufferfish's Attributes by Pufferfish (installed into the game by the launcher, unmodified; source
+  at https://github.com/pufmat/attributesmod). GNU Lesser General Public License v3.0.
+- Survival Instinct Skills by OMURAISU06 (installed into the game by the launcher). MIT License.
 - Elytra Trims by KikuGie (installed into the game by the launcher, unmodified; source at
   https://codeberg.org/KikuGie/elytra-trims). GNU Lesser General Public License v3.0 or later.
 - Fabric Language Kotlin by FabricMC (installed into the game by the launcher). Apache License 2.0.

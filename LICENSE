@@ -28,6 +28,9 @@ These are included under their own licences, which this notice does not change:
 - Trinkets Updated by Patbox, based on Trinkets by Emi (installed into the game by the launcher).
   MIT License.
 - Experience Skills by CoolerProYT (installed into the game by the launcher). MIT License.
+- Elytra Trims by KikuGie (installed into the game by the launcher, unmodified; source at
+  https://codeberg.org/KikuGie/elytra-trims). GNU Lesser General Public License v3.0 or later.
+- Fabric Language Kotlin by FabricMC (installed into the game by the launcher). Apache License 2.0.
 - The launcher is built with Python (PSF License), CustomTkinter (MIT), minecraft-launcher-lib
   (BSD 2-Clause), Requests (Apache License 2.0) and Pillow (MIT-CMU), bundled by PyInstaller.
 

@@ -42,6 +42,8 @@ These are included under their own licences, which this notice does not change:
   (Peetsa, GPL-3.0).
 - Also downloaded from Modrinth, not included: Xaero's Minimap and Xaero's World Map (xaero96),
   Entity Culling (tr7zw), Continuity (PepperCode1) and Lithium (CaffeineMC).
+- Also downloaded from Modrinth, not included: Sodium and Iris (CaffeineMC / IrisShaders), the
+  Complementary Reimagined shader pack (EminGT) and the Plasticraft resource pack.
 - Elytra Trims by KikuGie (installed into the game by the launcher, unmodified; source at
   https://codeberg.org/KikuGie/elytra-trims). GNU Lesser General Public License v3.0 or later.
 - Fabric Language Kotlin by FabricMC (installed into the game by the launcher). Apache License 2.0.

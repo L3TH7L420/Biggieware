@@ -38,6 +38,8 @@ These are included under their own licences, which this notice does not change:
 - Not included, downloaded by the launcher from Modrinth into the game: Immersive UI and Shatterbyte
   Lib (SSKirillSS / Octo Studios), Inventory Particles and MossyLib (LopyMine), Visuality (PinkGoosik)
   and Wakes (Goby56), each under its own licence.
+- Also downloaded from Modrinth, not included: Litematica and MaLiLib (masa, LGPL-3.0) and Slabbed
+  (Peetsa, GPL-3.0).
 - Elytra Trims by KikuGie (installed into the game by the launcher, unmodified; source at
   https://codeberg.org/KikuGie/elytra-trims). GNU Lesser General Public License v3.0 or later.
 - Fabric Language Kotlin by FabricMC (installed into the game by the launcher). Apache License 2.0.
